@@ -1,0 +1,150 @@
+1024
+The Conjuring
+HORROR
+New Line Cinema
+12
+
+1374
+The Shining 
+HORROR
+Warner Bros
+20
+
+1426
+The Quiet Place
+HORROR
+Paramount Pictures Studios
+20
+
+1092
+Bird Box
+HORROR
+Netflix
+11
+
+1477
+Don't Breathe
+HORROR
+Ghost House Pictures
+22
+
+2038
+The Kissing Booth
+ROMANCE
+Netflix
+14
+
+2897
+Five Feet Apart
+ROMANCE
+Welle Entertainment
+4
+
+2861
+La La Land
+ROMANCE
+Summit Entertainment
+20
+
+2666
+Hello,Love,Goodbye
+ROMANCE
+Star Cinema
+20
+
+2560
+Weathering With You
+ROMANCE
+CoMix Wave
+8
+
+3419
+The Maze Runner
+SCI-FI
+20th Century Studios
+4
+
+3751
+Men in Black: International
+SCI-FI
+Columbia Pictures
+3
+
+3417
+Interstellar
+SCI-FI
+Warner Bros
+19
+
+3469
+Pacific Rim
+SCI-FI
+Warner Bros
+29
+
+3907
+Ready Player One
+SCI-FI
+Warner Bros
+5
+
+4731
+Extraction
+ACTION
+Netflix
+12
+
+4362
+Taken 3
+ACTION
+EuropaCorp
+15
+
+4326
+Kingsman: The Secret Service
+ACTION
+20th Century Studios
+9
+
+4764
+Expendables 2
+ACTION
+Nimar Studios
+22
+
+4465
+American Sniper
+ACTION
+Malpaso Productions
+28
+
+7008
+The Three Stooges
+COMEDY 
+C3 Entertainment
+9
+
+5797
+Cruella
+COMEDY
+Disney
+12
+
+5112
+Central Intelligence 
+COMEDY
+Universal Pictures
+7
+
+5778
+Ted
+COMEDY
+Universal Pictures
+19
+
+5795
+Bedtime Stories
+COMEDY
+Disney
+23
+
